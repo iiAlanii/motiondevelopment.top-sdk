@@ -134,7 +134,7 @@ const hasVoted = await voteGetter.hasVoted('user_id');
 //here is an example for using the hasVoted variable
 
 client.on('messageCreate', message => {
-    const userId = message.author.id;
+    const userId = "user_id";
     if (message.content === '!vote') {
         voteGetter.hasVoted(userId).then(data => {
             if (data === true) {
@@ -142,7 +142,10 @@ client.on('messageCreate', message => {
             } else {
                 message.reply('You have not voted!')
             }
-        })
+        }).catch((error) => {
+            //handle error
+            console.error(error);
+        });
     }
 });
 
@@ -159,14 +162,7 @@ If you don't understand something in the documentation, or you are experiencing 
 
 # License
 ***
-This project is unlicensed. This means we retain all rights to our source code and no one may:
-- reproduce,
-- distribute, or
-- create derivative works from our work.
-
-You may however:
-- use our work for personal use,
-- use our work for commercial use
+This project is licensed under the "Proprietary License" license. (This license could change in the future.)
 
 
 
