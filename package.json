@@ -1,0 +1,31 @@
+{
+  "name": "motiondevelopment.top-sdk",
+  "version": "1.0.0",
+  "description": "The new, official motiondevelopment.top SDK for Discord.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iiAlanii/motionbotlist.top-sdk.git"
+  },
+  "keywords": [
+    "motionbotlist.top",
+    "motiondevelopment.top",
+    "motionbotlist.top-sdk",
+    "motiondevelopment.top-sdk",
+    "Botlist"
+  ],
+  "author": "Mirko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iiAlanii/motionbotlist.top-sdk/issues"
+  },
+  "homepage": "https://github.com/iiAlanii/motionbotlist.top-sdk#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "node-fetch": "^2.6.6",
+    "npm-api": "^1.0.1"
+  }
+}
