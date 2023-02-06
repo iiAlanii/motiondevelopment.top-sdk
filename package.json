@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iiAlanii/motionbotlist.top-sdk.git"
+    "url": "git+https://github.com/iiAlanii/motiondevelopment.top-sdk.git",
   },
   "keywords": [
     "motionbotlist.top",
@@ -20,9 +20,9 @@
   "author": "Mirko",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iiAlanii/motionbotlist.top-sdk/issues"
+    "url": "https://github.com/iiAlanii/motiondevelopment.top-sdk/issues"
   },
-  "homepage": "https://github.com/iiAlanii/motionbotlist.top-sdk#readme",
+  "homepage": "https://github.com/iiAlanii/motiondevelopment.top-sdk#readme",
   "dependencies": {
     "discord.js": "^14.7.1",
     "node-fetch": "^2.6.6",

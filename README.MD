@@ -5,7 +5,7 @@ This is an SDK package for interacting with the Motiondevelopment API using Disc
 # Links
 ***
 [Documentation](https://motiondevelopment.top/docs/api/intro)  
-[API Reference](https://motiondevelopment.top/docs/api/intro) | [Github](https://github.com/iiAlanii/motionbotlist.top-sdk) | [NPM](https://www.npmjs.com/package/motiondevelopment.top-sdk) | [Discord Server](https://discord.gg/2Z8Y4Z4)
+[API Reference](https://motiondevelopment.top/docs/api/intro) | [Github](https://github.com/iiAlanii/motiondevelopment.top-sdk) | [NPM](https://www.npmjs.com/package/motiondevelopment.top-sdk) | [Discord Server](https://discord.gg/2Z8Y4Z4)
 
 
 # Requirements
