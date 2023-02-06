@@ -27,8 +27,8 @@ class AutoPoster {
         // update guild count every minute
         setInterval(() => {
             this._guildCount = this.client.guilds.cache.size;
-            this.postGuildCount().then(() => console.log('[Motiondevelopment]: Posted guild count')).catch(err => console.error(err));
-        }, 60000);
+            this.postGuildCount().catch(err => console.error(err));
+        }, 900000);
 
     }
 
