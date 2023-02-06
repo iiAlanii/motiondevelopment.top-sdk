@@ -1,6 +1,6 @@
 {
   "name": "motiondevelopment.top-sdk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "The new, official motiondevelopment.top SDK for Discord.js",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "Botlist"
   ],
   "author": "Mirko",
-  "license": "MIT",
+  "license": "Proprietary",
   "bugs": {
     "url": "https://github.com/iiAlanii/motiondevelopment.top-sdk/issues"
   },
