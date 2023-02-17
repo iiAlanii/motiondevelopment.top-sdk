@@ -1,6 +1,6 @@
 {
   "name": "motiondevelopment.top-sdk",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "The new, official motiondevelopment.top SDK for Discord.js",
   "main": "index.js",
   "scripts": {

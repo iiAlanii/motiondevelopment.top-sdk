@@ -12,7 +12,7 @@ repo.package()
 npm update motiondevelopment.top-sdk\n
 to see the new features!\n
 Update:
-${pkg.version} - ${pkg.description}`)
+${pkg.version} - [IMPORTANT] Please update this package to the latest version, or run "npm audit fix" to fix important security issues.`)
     }, function (err) {
         console.error(err);
     });
